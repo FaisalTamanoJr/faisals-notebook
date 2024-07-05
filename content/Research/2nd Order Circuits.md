@@ -45,7 +45,7 @@ $$
 \frac{dv_{C}}{dt} = \frac{i_{C}}{C}
 $$
 
-## Solving a Source Free RCL Circuit Using KVL
+## Source Free RCL Circuit and KVL
 
 When we are solving a source free RCL circuit, we assume that the there are initial conditions for the capacitor and/or the inductor (or vice-versa) to generate the circuit’s current flow.
 
@@ -74,9 +74,55 @@ $$
 iR + L \frac{di}{dt} + \frac{1}{C} \int ^t _{0}i\, dt =0
 $$
 
+## Solving Source-free RCL Circuits
+
+Because we want to convert this equation
+
+$$
+\frac{d^2i}{dt^2}+\frac{R}{L} \frac{di}{dt} + \frac{1}{LC} i = 0
+$$
+
+to
+
+$$
+i(t)=Ae^{st}
+$$
+
+We transform each part and get an equation that is dependent on $s$; therefore, $s$ is its characteristic equation
+
+$$
+s=-\frac{R}{2L} \pm \sqrt{ \left( \frac{R}{2L} \right)^2 - \frac{1}{LC} }
+$$
+
+If we let $\alpha = \frac{R}{2L}$ (the damping factor) and $\omega_{0}=\frac{1}{\sqrt{ LC }}$ (natural frequency of the circuit if it did not have a resistor), [^1] then we can simplify the characteristic equation into
+
+$$
+s=-\alpha\pm \sqrt{ \alpha^2-\omega_{0}^2 }
+$$
+
+There are three possible cases/solutions based on the previously shown equation’s determinant:
+
+1. overdamping;
+	- $\alpha^2 > \omega_{0}^2$
+	- Solution: $i(t)=A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}$
+2. critical damping; and
+	- $\alpha^2 = \omega_{0}^2$
+	- Solution: $i(t)=(A_{1}t+A_{2})e^{-\alpha t}$
+3. underdamping
+	- $\alpha^2 < \omega_{0}^2$
+	- Solution: $i(t)=e^{-at}[B_{1}\cos \omega_{d}t+B_{2}\sin \omega_{d}t]$
+
+> [!NOTE]
+> - $\omega_{d}=\sqrt{ \omega_{0}^2-\alpha^2 }$
+> 	- The oscillations are slower because it assumes that there is resistance, unlike $\omega_{o}$
+> 	- also known as the *damped natural frequency*
+
 ## Sources
 
 1. [What is 2nd Order Circuits](https://youtu.be/BY4ounBzi3I)
 2. [What is 2nd Order Circuits Part 2](https://youtu.be/kvHEYIYbTQY)
 3. [Key to Solving 2nd Order Circuits](https://youtu.be/B79Kye6U_vw)
 4. [Source Free RCL KVL](https://youtu.be/wy2ierjxZos)
+5. [Three Solutions for Source Free RCL](https://youtu.be/XRBYHBJ-Wn8)
+
+[^1]: Damping in physics refers to the restriction of vibratory motion.
