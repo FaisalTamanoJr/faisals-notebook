@@ -1,11 +1,8 @@
 ---
 aliases: []
-draft: true
 tags: []
 title: Citations Template
 ---
-
-## Citations Template
 
 ### My Obsidian Notes
 

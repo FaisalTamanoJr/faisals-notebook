@@ -1,5 +1,5 @@
 ---
-title: Research Plans
+title: Plans
 aliases: []
 draft: false
 tags: []

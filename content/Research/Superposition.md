@@ -1,8 +1,8 @@
 ---
+draft: false
 date: 2024-07-02
 title: Superposition
 aliases: []
-draft: false
 tags: ["Physics/Electrical-Engineering"]
 ---
 

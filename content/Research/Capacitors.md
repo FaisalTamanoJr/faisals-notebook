@@ -26,11 +26,15 @@ Two ways to find the capacitance:
 
 When dealing with a parallel capacitor
 
-$$C_{eq}=C_{1}+C_{2}+\dots+C_{N}$$
+$$
+C_{eq}=C_{1}+C_{2}+\dots+C_{N}
+$$
 
 When dealing with a series capacitor
 
-$$ C_{eq}=\left(\frac{1}{C_{1}}+\frac{1}{C_{2}}+\dots+\frac{1}{C_{N}}\right)^{-1} $$
+$$
+ C_{eq}=\left(\frac{1}{C_{1}}+\frac{1}{C_{2}}+\dots+\frac{1}{C_{N}}\right)^{-1} 
+$$
 
 ## Charge and Voltage
 

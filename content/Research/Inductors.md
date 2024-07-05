@@ -8,7 +8,9 @@ tags: ["Physics/Electrical-Engineering"]
 
 An inductor is a wire wrapped around a tube that resists the change in current: if the current tries to increase, the inductor keeps it from increasing; if the current tries to decrease, the inductor keeps it from decreasing.
 
-$$L={\frac{N^{2}\mu A}{\ell}}$$
+$$
+L={\frac{N^{2}\mu A}{\ell}}
+$$
 
 > [!NOTE]
 > - $L =$ the constant of proportionality or the inductance (in henry \[H\])
@@ -21,7 +23,9 @@ There is a magnetic field around the current-carrying wire; as a result, it prod
 
 The voltage across an inductor is
 
-$$ v=L \frac{di}{dt} $$
+$$
+ v=L \frac{di}{dt} 
+$$
 
 In comparison to other circuit elements
 
@@ -35,11 +39,15 @@ Although the inductor initially opposes the change in current, the current will 
 
 Because
 
-$$p=L i \frac{di}{dt}$$
+$$
+p=L i \frac{di}{dt}
+$$
 
 we can derive the total work/energy and get
 
-$$ w = \frac{1}{2} Li^2 $$
+$$
+ w = \frac{1}{2} Li^2 
+$$
 
 ## DC Current
 
@@ -61,17 +69,23 @@ $$
 
 On the other hand, given the voltage, we can find the current through
 
-$$ i=\frac{1}{L}\int_{0}^t v \, dt  $$
+$$
+ i=\frac{1}{L}\int_{0}^t v \, dt  
+$$
 
 ## Series and Parallel Inductors
 
 When inductors are in series
 
-$$L_{eq}=L_{1}+L_{2}+\dots+L_{N}$$
+$$
+L_{eq}=L_{1}+L_{2}+\dots+L_{N}
+$$
 
 When inductors are in parallel
 
-$$L_{eq}=\left(\frac{1}{L_{1}}+\frac{1}{L_{2}}+\dots+\frac{1}{L_{N}}\right)^{-1}$$
+$$
+L_{eq}=\left(\frac{1}{L_{1}}+\frac{1}{L_{2}}+\dots+\frac{1}{L_{N}}\right)^{-1}
+$$
 
 ## Sources
 

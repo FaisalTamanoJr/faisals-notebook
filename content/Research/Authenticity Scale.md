@@ -66,7 +66,7 @@ tags: [Psychology]
 	- one can only truly be authentic by being conscious of their inevitable death
 	- authenticity and inauthenticity are basic forms of being in the world, thereby being inseparable from each other; they are complementary and interdependent
 - Jean-Paul Sartre (1905-80) contends that
-	- there is no such thing us inherent traits: we have comple control of our nature and decisions (basically implying that free will exists). [^free_will_question]
+	- there is no such thing us inherent traits: we have comple control of our nature and decisions (basically implying that free will exists). [^1]
 	- authenticity requires taking full responsibility for our life, choices and actions. Therefore, the anxiety or ‘angst’ which results from our realization of our own inescapable freedom is an integral part of authentic living.
 	- it should be emphasized that the individual’s freedom is constrained by nature and society, as well as by their own limitations – what Sartre called their ‘facticity’.
 - Albert Camus (1913-60) states that
@@ -146,4 +146,4 @@ tags: [Psychology]
 1. Alex Mathew Wood, P. Alex Linley, John Maltby, Journal of Counseling Psychology, “[The Authentic Personality: A Theoretical and Empirical Conceptualization and the Development of the Authenticity Scale](http://dx.doi.org/10.1037/0022-0167.55.3.385)” - 2008-07
 2. Ben G. Yacobi, Philosophy Now, “[The Limits of Authenticity](https://philosophynow.org/issues/92/The_Limits_of_Authenticity)” - 2012
 
-[^free_will_question]: Mental illness exists? how can we say they are completely free?
+[^1]: Mental illness exists? how can we say they are completely free?

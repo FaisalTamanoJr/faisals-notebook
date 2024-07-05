@@ -1,6 +1,6 @@
 ---
 draft: false
-title: RC and RL  Circuits
+title: RC And RL Circuits
 date: 2024-07-03
 aliases: []
 tags: ["Physics/Electrical-Engineering"]

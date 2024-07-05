@@ -1,6 +1,6 @@
 ---
 date: 2024-06-10
-title: Minimum Wage in the Philippines
+title: Minimum Wage In The Philippines
 aliases: []
 draft: false
 tags: [Economy]
@@ -15,5 +15,4 @@ tags: [Economy]
 ## Sources
 
 1. Cordero, T. (2024, April 12). Current minimum wage still not enough to meet family needs—IBON. *GMA News*. [https://www.gmanetwork.com/news/money/economy/903491/current-minimum-wage-still-not-enough-to-meet-family-needs-ibon/story/](https://www.gmanetwork.com/news/money/economy/903491/current-minimum-wage-still-not-enough-to-meet-family-needs-ibon/story/)
-
 2. Ha, C. (2024, January 23). Minimum wage in the Philippines not sufficient for employees. *hrmasia*. [https://hrmasia.com/minimum-wage-in-the-philippines-not-meeting-basic-needs/](https://www.gmanetwork.com/news/money/economy/903491/current-minimum-wage-still-not-enough-to-meet-family-needs-ibon/story/)

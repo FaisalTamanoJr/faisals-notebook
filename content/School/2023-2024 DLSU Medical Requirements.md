@@ -1,8 +1,8 @@
 ---
-date: 2024-06-12
-title: 2024 DLSU Medical Requirements
-aliases: []
 draft: false
+date: 2024-06-12
+title: 2023-2024 DLSU Medical Requirements
+aliases: []
 tags: []
 ---
 
