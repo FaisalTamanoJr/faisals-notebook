@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Thevenin Theorem
+title: Thevenin's Theorem
 date: 2024-07-02
 aliases: []
 tags: ["Physics/Electrical-Engineering"]

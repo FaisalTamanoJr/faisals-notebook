@@ -1,6 +1,6 @@
 ---
 date: 2024-06-23
-title: Miller On Immigration
+title: Overview of David Miller's Position on Immigration
 aliases: []
 draft: false
 tags: ["Philosophy", "Politics/Immigration"]

@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2024-06-12
-title: index
+title: About
 aliases: []
 tags: []
 ---
