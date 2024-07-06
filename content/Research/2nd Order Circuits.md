@@ -115,7 +115,7 @@ There are three possible cases/solutions based on the previously shown equationâ
 > 	- The oscillations are slower because it assumes that there is resistance, unlike $\omega_{o}$
 > 	- also known as the *damped natural frequency*
 
-## Overdamping
+### Overdamping
 
 Overdamping is the case where the damping factor $\alpha$ is greater than the natural frequency $\omega_{0}$. In this case, we will have two solutions to our characteristic equation, $s_{1}$ and $s_{2}$; as a result, our general equation will be
 
@@ -130,7 +130,7 @@ The constants $A_{1}$ and $A_{2}$ can be solved using the initial conditions of 
 
 This case entails that the current $i(t)$ will never reach the $Ae^{-\alpha t}$ curve until time goes to infinity
 
-## Critical Damping
+### Critical Damping
 
 Critical damping occurs when the damping factor $\alpha$ is equal to the natural frequency $\omega_{0}$, where the current curve intersects with the $Ae^{-\alpha t}$ curve at its maximum point and comes closer together as time approaches infinity.
 
@@ -146,7 +146,7 @@ $$
 i(t)=(A_{1}t+A_{2})e^{-\alpha t}
 $$
 
-## Underdamping
+### Underdamping
 
 In this case, the resistor is so small that the damping factor $\alpha$ is less than the natural frequency $\omega_{0}$. For this reason, we will get an imaginary number when solving the characteristic equation. Furthermore, we will rewrite the characteristic equation to
 
