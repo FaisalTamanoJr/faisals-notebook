@@ -6,7 +6,7 @@ aliases: []
 tags: [Physics/Electrical-Engineering]
 ---
 
-Related concepts: [[Capacitors]], [[Inductors]]
+Related concepts: [[Capacitors]], [[Inductors]], [[Waves]]
 
 A second order circuit contains a resistor and two energy storing devices, namely capacitors, and/or inductors (or vice-versa). Performing Kirchhoff’s Voltage Law (KVL), taking the derivative, and dividing by L gives us the 2nd order differential equation
 
@@ -94,28 +94,96 @@ $$
 s=-\frac{R}{2L} \pm \sqrt{ \left( \frac{R}{2L} \right)^2 - \frac{1}{LC} }
 $$
 
-If we let $\alpha = \frac{R}{2L}$ (the damping factor) and $\omega_{0}=\frac{1}{\sqrt{ LC }}$ (natural frequency of the circuit if it did not have a resistor), [^1] then we can simplify the characteristic equation into
+If we let $\alpha = \frac{R}{2L}$ (the damping factor)[^damping] and $\omega_{0}=\frac{1}{\sqrt{ LC }}$ (natural frequency of the circuit),[^natural_frequency] then we can simplify the characteristic equation into
 
 $$
 s=-\alpha\pm \sqrt{ \alpha^2-\omega_{0}^2 }
 $$
 
-There are three possible cases/solutions based on the previously shown equation’s determinant:
+There are three possible cases/solutions based on the previously shown equation’s discriminant:
 
 1. overdamping;
 	- $\alpha^2 > \omega_{0}^2$
-	- Solution: $i(t)=A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}$
 2. critical damping; and
 	- $\alpha^2 = \omega_{0}^2$
-	- Solution: $i(t)=(A_{1}t+A_{2})e^{-\alpha t}$
 3. underdamping
 	- $\alpha^2 < \omega_{0}^2$
-	- Solution: $i(t)=e^{-at}[B_{1}\cos \omega_{d}t+B_{2}\sin \omega_{d}t]$
+	- Solution:
 
 > [!NOTE]
 > - $\omega_{d}=\sqrt{ \omega_{0}^2-\alpha^2 }$
 > 	- The oscillations are slower because it assumes that there is resistance, unlike $\omega_{o}$
 > 	- also known as the *damped natural frequency*
+
+## Overdamping
+
+Overdamping is the case where the damping factor $\alpha$ is greater than the natural frequency $\omega_{0}$. In this case, we will have two solutions to our characteristic equation, $s_{1}$ and $s_{2}$; as a result, our general equation will be
+
+$$
+i(t)=A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}
+$$
+
+> [!TIP]
+> $s_{1}$ and $s_{2}$ should both always be negative and real values
+
+The constants $A_{1}$ and $A_{2}$ can be solved using the initial conditions of the current and its change
+
+This case entails that the current $i(t)$ will never reach the $Ae^{-\alpha t}$ curve until time goes to infinity
+
+## Critical Damping
+
+Critical damping occurs when the damping factor $\alpha$ is equal to the natural frequency $\omega_{0}$, where the current curve intersects with the $Ae^{-\alpha t}$ curve at its maximum point and comes closer together as time approaches infinity.
+
+Because the damping factor and natural frequency are the same, we can rewrite the function for the current in terms of the damping factor
+
+$$
+\frac{d^2i}{dt^2}+\frac{2\alpha di}{dt}+\alpha^2i=0
+$$
+
+Through derivations and some algebraic and calculus tricks, we can formulate the following equation for the current:
+
+$$
+i(t)=(A_{1}t+A_{2})e^{-\alpha t}
+$$
+
+## Underdamping
+
+In this case, the resistor is so small that the damping factor $\alpha$ is less than the natural frequency $\omega_{0}$. For this reason, we will get an imaginary number when solving the characteristic equation. Furthermore, we will rewrite the characteristic equation to
+
+$$
+s_{1},s_{2}=-\alpha\pm \sqrt{ -(w_{0}^2-\alpha^2) }
+$$
+
+which then gives us
+
+$$
+-\alpha \pm jw_{d}
+$$
+
+where $w_{d}$ is the *damped natural frequency* or $\sqrt{ w_{0}^2 - \alpha^2 }$. This natural frequency, unlike natural frequency $\omega_{0}$, is the rate of oscillation where resistance is present. As a consequence, the damped natural frequency has smaller frequency and larger period than the one without a damping factor because its current is being dissipated by the resistor.
+
+![undamped_vs_damped.webp](https://qph.cf2.quoracdn.net/main-qimg-8b286b5aedd2d6d4e58d66bbb8c2b772.webp)
+
+Because $s_{1}$ and $s_{2}$ have imaginary numbers resulting from having a smaller $\alpha$, the equation for solving their current slightly differs from the overdamping case. Through algebraic and trigonometric techniques, we can obtain the following equation for the current:
+
+$$
+i(t)=e^{-\alpha t}[B_{1}\cos \omega_{d}t+B_{2}\sin \omega_{d}t]
+$$
+
+where
+
+$$
+\begin{align}
+B_{1}&=(A_{1}+A_{2}) \\
+B_{2}&=(A_{1}-A_{2})j
+\end{align}
+$$
+
+> [!SUMMARY]
+> - *Overdamping* slowly returns to equilibrium without oscillating
+> - *Critical damping* quickly returns to equilibrium without oscillating and passes it once at most
+> - *Underdamping* quickly returns to equilibrium but will oscillate and, thus, cross the equilibrium multiple times
+> ![damping graphs.jpg](https://qph.cf2.quoracdn.net/main-qimg-e953072f07fb52d303e439dd2d19cbce-lq)
 
 ## Sources
 
@@ -124,5 +192,14 @@ There are three possible cases/solutions based on the previously shown equation�
 3. [Key to Solving 2nd Order Circuits](https://youtu.be/B79Kye6U_vw)
 4. [Source Free RCL KVL](https://youtu.be/wy2ierjxZos)
 5. [Three Solutions for Source Free RCL](https://youtu.be/XRBYHBJ-Wn8)
+6. [Overdamping](https://youtu.be/_mFD9c_-Te4)
+7. [Critical damping](https://youtu.be/3y_-NwHwE00)
+8. [Underdamping](https://youtu.be/7yxTYhUoV4c)
+9. [Underdamping Frequency](https://youtu.be/RwERYhySKFc)
+10. [Example 1](https://youtu.be/yvaegtA3XaU)
+11. [Example 2](https://youtu.be/idY0ZF5tk0o)
+12. [Example 3](https://youtu.be/hxPbKucrtBo)
+13. [Example 4](https://youtu.be/XU1gcNCp6ao)
 
-[^1]: Damping in physics refers to the restriction of vibratory motion.
+[^damping]: Damping in physics refers to the restriction of vibratory motion, and, as such, the damping factor deals with how much the circuit’s oscillations decrease over time.
+[^natural_frequency]: Natural frequency is the rate at which the circuit’s oscillations tends to oscillate in the absence of resistance
