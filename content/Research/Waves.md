@@ -3,7 +3,7 @@ draft: false
 title: Waves
 date: 2024-07-06
 aliases: []
-tags: []
+tags: [Physics]
 ---
 
 ![wave.png](https://study.com/cimages/multimages/16/cresttroughwavelength.png)
