@@ -115,6 +115,9 @@ There are three possible cases/solutions based on the previously shown equation�
 > 	- The oscillations are slower because it assumes that there is resistance, unlike $\omega_{o}$
 > 	- also known as the *damped natural frequency*
 
+> [!TIP]- Helpful Formula for Solving
+> $\displaystyle \frac{di(0)}{dt}=-\frac{1}{L}(RI_{0}+V_{0})$
+
 ### Overdamping
 
 Overdamping is the case where the damping factor $\alpha$ is greater than the natural frequency $\omega_{0}$. In this case, we will have two solutions to our characteristic equation, $s_{1}$ and $s_{2}$; as a result, our general equation will be
@@ -199,7 +202,8 @@ $$
 10. [Example 1](https://youtu.be/yvaegtA3XaU)
 11. [Example 2](https://youtu.be/idY0ZF5tk0o)
 12. [Example 3](https://youtu.be/hxPbKucrtBo)
-13. [Example 4](https://youtu.be/XU1gcNCp6ao)
+13. [Example 3 Part 2](https://youtu.be/3p91H5eIz-0)
+14. [Example 4](https://youtu.be/XU1gcNCp6ao)
 
 [^damping]: Damping in physics refers to the restriction of vibratory motion, and, as such, the damping factor deals with how much the circuit’s oscillations decrease over time.
 [^natural_frequency]: Natural frequency is the rate at which the circuit’s oscillations tends to oscillate in the absence of resistance
