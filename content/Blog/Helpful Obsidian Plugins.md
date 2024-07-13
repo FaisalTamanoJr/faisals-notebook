@@ -30,4 +30,4 @@ tags: []
 11. Image converter
 	- Converts and compress inserted images to Obsidian.
 12. Tag Wrangler
-	1. Provides extra tag features for Obsidian.
+	- Provides extra tag features for Obsidian.
