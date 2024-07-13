@@ -39,14 +39,14 @@ Results will be released at the Health Services Office (HSO) Enrique Razon Sport
 
 ## Periodic Health Examination (PHex)
 
-[Detailed process](https://www.dlsu.edu.ph/wp-content/uploads/pdf/hso/detailed-process-of-the-undergraduate-students-periodic-health-examination.pdf)
-
 ### Steps
 
 1. Download the forms.
-2. Choose an [accredited clinic](https://www.dlsu.edu.ph/wp-content/uploads/pdf/hso/accredited-clinics.pdf).
-3. Present the form to the clinic.
-4. Submit the filled-out forms at Waldo Perfecto Seminar Room, Ground Floor, Br. Connon Hall, Monday to Saturday, from 8:00 am to 4:00 pm—no later than 27 July 2024.
+2. Present to Room 102, Br. Connon Hall (Waldo Perfecto Seminar Room)
+	1. Present ID
+	2. Bring Forms
+	3. ITEO Evaluation
+3. [Detailed process](https://www.dlsu.edu.ph/wp-content/uploads/pdf/hso/detailed-process-of-the-undergraduate-students-periodic-health-examination.pdf)
 
 ### Forms to Print
 
