@@ -24,7 +24,7 @@ tags: []
 	- [nuclear fuel depletion systems](https://www.tandfonline.com/doi/full/10.1080/00295639.2023.2241807)
 	- *Cholesky Decomposition* (A modified version of LU Decomposition)
 		- [analysis of lightning](https://ieeexplore.ieee.org/document/10103458)
-		- [nuclear-electronic orbital theory](https://pubs.acs.org/doi/abs/10.1021/acs.jctcc00686)
+		- [nuclear-electronic orbital theory](https://doi.org/10.1021/acs.jctc.3c00686)
 		- [electronic-structure theory](https://link.springer.com/chapter/10.1007/978-90-481-2853-2_13)
 
 ## Numerical Integration
