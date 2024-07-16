@@ -1,6 +1,6 @@
 ---
 draft: false
-title: (Assignment) Systems of Linear Equations or Numerical Integration
+title: Systems of Linear Equations or Numerical Integration
 date: 2024-07-10
 aliases: []
 tags: []
