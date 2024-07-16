@@ -1,9 +1,3 @@
----
-aliases: []
-tags: []
-title: Citations Template
----
-
 ### My Obsidian Notes
 
 - News Websites

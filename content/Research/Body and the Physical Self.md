@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Citations Template
+title: Body and the Physical Self
 date: 2024-07-16
 aliases: []
 tags: [Psychology]
