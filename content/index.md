@@ -15,7 +15,7 @@ I’ll be keeping notes I want to publish online here.
 ## Related Links
 
 - [Class Notes](https://github.com/FaisalTamanoJr/Class-Notes)
-	- [Web Version](https://faisaltamanojr.github.io/public-class-notes/)
+	- [Web Version](https://public-class-notes.pages.dev/)
 - [Flashcards](https://github.com/FaisalTamanoJr/Anki-Class-Flashcards)
 
 ## Folders
