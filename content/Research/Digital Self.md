@@ -1,8 +1,8 @@
 ---
 draft: false
-title: Digital Self
-date: 2024-07-16
-aliases: []
+title: Selfies, Self-Esteem, and Narcissism
+date: 2024-07-22
+aliases: [Digital Self]
 tags: [Psychology, Technology]
 ---
 
@@ -48,6 +48,37 @@ tags: [Psychology, Technology]
 	- Studies show that self-esteem seems to improve when one browses their own Facebook page, presumably because it contains self-selected information.
 - [Individuals with low-self esteem tend to remove their unflattering photos online.](https://doi.org/10.1016/j.chb.2012.11.010) Nevertheless, [they have been associated with greater displays of self-promotion](https://doi.org/10.1089/cyber.0257).
 - Frequent selfie posting might indicate high self-esteem or at least enhance it because it usually emphasizes one’s ideal and controlled image. Furthermore, it might correspond with an overall elevated self-perception
+
+> [!NOTE]
+> [The primary motive for using social media is to satisfy the need to belong or the need for self-presentation](https://doi.org/10.1016/j.paid.2011.11.007)
+
+## Conclusions Based on the Results of the Study Involving Selfies, Self-esteem, and Narcissism
+
+- Self-esteem and self-reported narcissism (in relation to posting selfies) were not strongly related.
+- Selfies are likely just a common way of communication among the young generation.
+- The number of followers were positive correlated with the frequency of selfie posting. This suggests that there is a higher demand for selfies when there is a larger audience.
+- Lack of selfies was correlated with fragile/low self-esteem, which might be caused by the fear of negative feedback or no positive feedback.
+- The significant variability in the results might imply that there are other intraindividual factors that are neither captured by either self-esteem nor narcissism
+	- factors may include the following:
+		- age - might play a role considering that there is a greater frequency of posting among the youth
+		- gender
+		- race/ethnicity
+		- culture
+- The theme of the selfies displays the communicative intent and self-perception better than examining the frequency of posting selfies—since posting selfies seems to be the norm.
+- Vulnerable self-esteem was more associated with selfies that highlights one’s physical appearance.
+	- Individuals that took these types of selfies reported to possess some of the following characteristics:
+		- entitlement to positive feedback;
+		- fragile self-esteem; and
+		- inclination to hide self-perceived flaws.
+	- Physical appearance selfies were strongly correlated with hiding the self and devaluing others or the need for others.
+- Social media allows one to control their audience and selectively hide one’s flaws and emphasize one’s strengths (especially through editing and picking the best photos). As a result, it provides a safe space for narcissists to assert a sense of confidence.
+- Collages containing multiple selfies was correlated with non-pathological narcissism, it is particularly positively correlated with vanity and superiority sub-scales but negatively correlated with the need for feedback.
+	- Nevertheless, it was also correlated with higher number of followers. Therefore, it might just indicate that someone is more skilled with photo-editing or knowing trends in social media since higher followers imply more selfies posted, higher social media usage, or higher demand for photos.
+- The number of selfies taken with others—particularly one that appears to not focus on one’s appearance—is negative correlated with grandiose narcissism, suggesting that one has better interpersonal relationships and is less likely to exploit others for social goals.
+	- One theory for why this happens might be because a grandiose narcissistic individual might prefer to not seem equal or inferior to others; hence, they avoid taking pictures with other people.
+	- It could also just mean that their narcissism causes them to have less relationships.
+- The amount of selfies posted and social media usage is not correlated with one’s self-esteem.
+- The results of the study indicate that the motives behind self-presentation is consistent with narcissistic tendencies—self-presentation is prioritized over belongingness. This tracks with narcissists sacrificing communality in order to emphasize individual qualities and satisfy social goals.
 
 ## Sources
 
