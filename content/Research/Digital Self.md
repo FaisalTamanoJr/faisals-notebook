@@ -35,9 +35,9 @@ tags: [Psychology, Technology]
 	- Narcissism is characterized by an overambitious self presentation—which is caused by the need to regulate self esteem. For this reason, narcissism may be involved with how some people interact with social media considering that self-presentation and feedback is one of its primary components.
 - [Self-reported frequency of selfies was strongly correlated with self-reported narcissism.](http://dx.doi.org/10.1016/j.paid.2014.12.017)
 - [Narcissism involves the desire to have a large social network and the concern for others' attention.](https://doi.org/10.1016/j.paid.2010.12.022)
-- [Narcissists use social media to present a positive image of oneself.](https://doi.org/10.1016/j.paid.12.022) [This is exemplified by the selection of profile photos that highlights one's physical attractiveness or personality.](http://dx.doi.org/10.1089/cyber.2012.0143) Hence, narcissists can use selfies to easily self-present—in a confident manner—and garner positive feedback.
+- [Narcissists use social media to present a positive image of oneself.](https://doi.org/10.1016/j.paid.2010.12.022) [This is exemplified by the selection of profile photos that highlights one's physical attractiveness or personality.](http://dx.doi.org/10.1089/cyber.2012.0143) Hence, narcissists can use selfies to easily self-present—in a confident manner—and garner positive feedback.
 	- This act positively correlates with *nonpathological* and *grandiose narcissism*.
-- Some studies reveal that narcissistic individuals tend to [post more](https://doi.org/10.1016/j.paid.2010.12.022) and [reveal more.](https://linkinghub.elsevier.com/retrieve/pii/S0191886911001310) To be more specific, narcissistic people [tend to post profile-pictures that were self-promoting, sexy, and fun.](http://dx.doi.org/10.1177/0146167208320061)
+- Some studies reveal that narcissistic individuals tend to [post more](https://doi.org/10.1016/j.paid.2010.12.022) and [reveal more.](https://doi.org/10.1016/j.paid.2011.03.011) To be more specific, narcissistic people [tend to post profile-pictures that were self-promoting, sexy, and fun.](http://dx.doi.org/10.1177/0146167208320061)
 
 ## Self-esteem and Social Media
 
@@ -46,7 +46,7 @@ tags: [Psychology, Technology]
 	- Nevertheless, one’s self-esteem can still be affected by social media. Selective self-presentation can boost self-esteem because it may lead to positive feedback unique to social media, while the abundant opportunities to compare oneself to others, and the potential negative/non-existent feedback may result in lower self-esteem.
 - Findings regarding the correlation between social media use and self-esteem have been mixed: positive, negative, or no correlation.
 	- Studies show that self-esteem seems to improve when one browses their own Facebook page, presumably because it contains self-selected information.
-- [Individuals with low-self esteem tend to remove their unflattering photos online.](https://doi.org/10.1016/j.chb.2012.11.010) Nevertheless, [they have been associated with greater displays of self-promotion](https://doi.org/10.1089/cyber.0257).
+- [Individuals with low-self esteem tend to remove their unflattering photos online.](https://doi.org/10.1016/j.chb.2012.11.010) Nevertheless, [they have been associated with greater displays of self-promotion](https://doi.org/10.1089/cyber.2009.0257).
 - Frequent selfie posting might indicate high self-esteem or at least enhance it because it usually emphasizes one’s ideal and controlled image. Furthermore, it might correspond with an overall elevated self-perception
 
 > [!NOTE]
