@@ -8,7 +8,7 @@ tags: [Environmental-Science]
 
 - # Sources
 	- <https://www.inderscienceonline.com/doi/pdf/10.1504/IJEWM.2019.096540>
-	- <https://sci-hub.se/10.1504/IJEWM.2019.096540>
+	- <http://dx.doi.org/10.1504/IJEWM.2019.096540>
 - # Abbreviations
 	- **MSW -** Municipal Solid Waste
 	- **WMA -** Waste Management Act
