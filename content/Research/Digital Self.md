@@ -19,7 +19,7 @@ tags: [Psychology, Technology]
 	- efforts to demonstrate one’s superiority over others;
 	- entitlement to positive feedback; and
 	- the desire to be the primary focus of others.
-- [Pathological grandiose narcissism is characterized by the following traits](http://dx.doi.org/10.1521/jscp.29.8.874):
+- [Pathological grandiose narcissism is characterized by the following traits](http://dx.doi.org/10.1521/jscp.2010.29.8.874):
 	- inclination to exploit others for the sake of fulfilling social goals;
 	- deceiving attempts to appear helpful for the sake of a better image;
 	- fantasies of one’s superiority
