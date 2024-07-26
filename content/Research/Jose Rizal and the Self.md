@@ -1,9 +1,9 @@
 ---
 draft: false
 title: Analysis of Jose Rizal's Self
-date: 2024-07-24
+date: 2024-07-26
 aliases: []
-tags: [Anthropology, Philosophy, Psychology]
+tags: [Anthropology, History/Philippines, Philosophy, Psychology]
 ---
 
 ## Relevant Biographical Information
