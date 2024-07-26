@@ -3,7 +3,7 @@ date: 2024-06-10
 title: Software Recommendations
 aliases: []
 draft: false
-tags: [Software]
+tags: [Technology/Software]
 ---
 
 | Name                                                  | Purpose                         |
