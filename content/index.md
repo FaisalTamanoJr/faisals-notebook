@@ -10,12 +10,9 @@ tags: []
 
 Hi! This is Faisal Tamano Jr.‘s Notes.
 
-I’ll be keeping notes I want to publish online here.
+I’ll be keeping the notes I want to publish online here; however, lessons related materials are found in the sites linked below:
 
-## Related Links
-
-- [Class Notes](https://github.com/FaisalTamanoJr/Class-Notes)
-	- [Web Version](https://public-class-notes.pages.dev/)
+- [Class Notes](https://public-class-notes.pages.dev/)
 - [Flashcards](https://github.com/FaisalTamanoJr/Anki-Class-Flashcards)
 
 ## Folders
