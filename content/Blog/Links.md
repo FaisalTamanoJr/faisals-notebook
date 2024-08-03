@@ -1,5 +1,9 @@
 ---
 draft: false
+title: Links
+date: 2024-07-30
+aliases: []
+tags: []
 ---
 
 1. [Class-notes](https://github.com/FaisalTamanoJr/Class-Notes)
