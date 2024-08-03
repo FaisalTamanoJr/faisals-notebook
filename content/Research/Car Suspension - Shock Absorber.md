@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Car Suspension
+title: Car Suspension - Shock Absorber
 date: 2024-08-02
 aliases: []
 tags: [Physics/Mechanical-Engineering, Technology/Software/CAD]
