@@ -3,7 +3,7 @@ draft: false
 title: Inductors
 date: 2024-07-02
 aliases: []
-tags: ["Physics/Electrical-Engineering"]
+tags: ["Physics/Electricity-and-Magnetism"]
 ---
 
 An inductor is a wire wrapped around a tube that resists the change in current: if the current tries to increase, the inductor keeps it from increasing; if the current tries to decrease, the inductor keeps it from decreasing.

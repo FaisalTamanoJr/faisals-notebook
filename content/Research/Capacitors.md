@@ -3,7 +3,7 @@ draft: false
 title: Capacitors
 date: 2024-07-02
 aliases: []
-tags: ["Physics/Electrical-Engineering"]
+tags: ["Physics/Electricity-and-Magnetism"]
 ---
 
 A capacitor has two plates with a dialectric in between. When connected to a voltage source, the positive charges goes to one plate, which repels the positive charges on the opposite plate and results to the lack of positive charge in that opposite plate. In addition, the positive charges of the opposite plate is also attracted to the negative side of the voltage source.

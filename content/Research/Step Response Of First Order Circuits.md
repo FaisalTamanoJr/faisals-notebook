@@ -3,7 +3,7 @@ draft: false
 title: Step Response Of First Order Circuits
 date: 2024-07-03
 aliases: []
-tags: [Physics/Electrical-Engineering]
+tags: [Physics/Electricity-and-Magnetism]
 ---
 
 Related concepts: [[Capacitors]], [[Inductors]]

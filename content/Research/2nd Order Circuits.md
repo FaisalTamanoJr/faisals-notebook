@@ -3,7 +3,7 @@ draft: false
 title: 2nd Order Circuits
 date: 2024-07-04
 aliases: []
-tags: [Physics/Electrical-Engineering]
+tags: [Physics/Electricity-and-Magnetism]
 ---
 
 Related concepts: [[Capacitors]], [[Inductors]], [[Waves]]

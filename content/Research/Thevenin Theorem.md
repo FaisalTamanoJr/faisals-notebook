@@ -3,7 +3,7 @@ draft: false
 title: Thevenin's Theorem
 date: 2024-07-02
 aliases: []
-tags: ["Physics/Electrical-Engineering"]
+tags: ["Physics/Electricity-and-Magnetism"]
 ---
 
 Related concepts: [[Superposition]]

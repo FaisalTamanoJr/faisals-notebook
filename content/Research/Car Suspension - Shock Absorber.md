@@ -3,7 +3,7 @@ draft: false
 title: Car Suspension - Shock Absorber
 date: 2024-08-02
 aliases: []
-tags: [Physics/Mechanical-Engineering, Technology/Software/CAD]
+tags: [Physics/Mechanics, Technology/Software/CAD]
 ---
 
 Car suspensions take advantage of the friction between the tires and the road to allow the car to steer properly. They are necessary to ensure the stability of the car when steering; without them, it would be challenging for cars to travel safely on a road with irregularities (which is always the case).
