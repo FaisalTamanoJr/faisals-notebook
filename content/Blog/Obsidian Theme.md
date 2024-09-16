@@ -1,7 +1,7 @@
 ---
 draft: false
 title: My Obsidian Theme Just Got Officially Published
-date: 2024-07-30
+date: 2024-09-16
 aliases: 
 tags:
 ---
