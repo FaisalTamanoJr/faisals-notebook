@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Systems of Linear Equations or Numerical Integration
-date: 2024-07-10
+date: 2024-09-23, 21:44
 aliases: []
 tags: []
 ---

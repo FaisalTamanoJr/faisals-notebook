@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Suggestions for Real-World Applications of System of Linear Equations/Numerical Integration
-date: 2024-07-15
+date: 2024-09-23, 21:44
 aliases: []
 tags: []
 ---
