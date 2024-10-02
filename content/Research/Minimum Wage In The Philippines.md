@@ -1,5 +1,5 @@
 ---
-date: 2024-06-10
+date: 2024-09-28, 18:15
 title: Minimum Wage In The Philippines
 aliases: []
 draft: false
