@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Helpful Obsidian Plugins
-date: 2024-07-07
+date: 2024-10-05, 20:02
 aliases: []
 tags: []
 ---
